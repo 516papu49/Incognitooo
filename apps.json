@@ -1,6 +1,6 @@
 [
     {
-        "title": "shinycolors",
+        "title": "url",
         "img": "./index.svg",
         "location": "./#apps"
     },
@@ -8,6 +8,16 @@
         "title": "shinycolors",
         "img": "./img/shiny.jpg",
         "location": "https://shinycolors.enza.fun/"
+    },
+    {
+        "title": "gb",
+        "img": "./img/gb.jpg",
+        "location": "http://game.granbluefantasy.jp/"
+    },
+    {
+        "title": "twt",
+        "img": "./img/twt.jpg",
+        "location": "https://monile.twitter.com/cheon1986?lang=ja"
     },
     {
         "title": "dmm",
